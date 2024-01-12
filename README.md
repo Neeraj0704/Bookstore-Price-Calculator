@@ -26,7 +26,6 @@ The **Bookstore Price Calculator** is a simple PyQt5-based desktop application t
 ## Getting Started
 
 1. **Clone the repository to your local machine.**
-2. **Install the required dependencies** using `pip install -r requirements.txt`.
-3. **Run the application** using `python your_app_file.py`.
+2. **Install the required dependencies** using `pip install`.
+3. **Run the application** using `python bookMain.py`.
 
-Feel free to explore, modify, and enhance the application according to your needs!
